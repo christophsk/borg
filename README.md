@@ -19,8 +19,6 @@ See `example/borg_example` for a sample implementation easily adaptable to your 
 Note that the shared state is preserved although the object references *are* different.
 
 # License
-MIT License
-
 MIT License Copyright &copy; 2022 Chris Skiscim
 
 Permission is hereby granted, free of charge, to any person obtaining
