@@ -16,7 +16,7 @@ class BorgExample(Borg):
 
 def setup_borg():
     c = BorgExample()
-    obj = "You're object here"
+    obj = "Your object here"
     c.config = {"obj": obj}
     return c
 
