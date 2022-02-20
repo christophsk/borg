@@ -24,7 +24,7 @@ Alex Martelli's Borg non-pattern - not a singleton!
 
 See: http://www.aleax.it/5ep.html
 """
-import version as v
+import borg.version as v
 
 
 class Borg:
