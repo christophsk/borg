@@ -1,4 +1,4 @@
-from borg.borg import Borg
+from borg import Borg
 
 
 class BorgExample(Borg):
